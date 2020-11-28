@@ -1,2 +1,4 @@
 # ai_primer_submissions
-Model submission for my Data Science course
+Model submissions for my Data Science course
+
+# I wrote down my thought process in CNN/Writeup, please read it when evaluating.
